@@ -1,0 +1,13 @@
+# Site settings
+title: LeakyCode
+#email: m@leakycode.com
+description: >
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.leakycode.com" # the base hostname & protocol for your site
+twitter_username: MehrdadA
+#github_username:  mehrdada
+
+# Build settings
+markdown: kramdown
+permalink: pretty
